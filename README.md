@@ -1,2 +1,3 @@
 # NER_through_NLTK_and_SpaCy
-This project demonstrates Named Entity Recognition (NER) using NLTK and SpaCy libraries. NER is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into predefined categories.
+This project demonstrates Named Entity Recognition (NER) using NLTK and SpaCy libraries. NER is a subtask of information extraction that seeks to locate and classify named entities mentioned in unstructured text into predefined categories such as names of persons, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc. 
+The project supports recognition in more than 15 languages, including Catalan, Chinese, Croatian, Danish, Dutch, English, Finnish, French, German, Greek, Italian, Japanese, Korean, Lithuanian, and Macedonian.
